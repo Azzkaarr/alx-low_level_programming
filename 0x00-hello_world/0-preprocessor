@@ -1,3 +1,2 @@
 #!/bin/bash
-CFILE="input.c"
-OUTPUT_FILE="c" 
+gcc -E $CFILE -o c
