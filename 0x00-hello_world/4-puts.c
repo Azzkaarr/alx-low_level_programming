@@ -1,4 +1,4 @@
-#include <stdio/h>
+#include <stdio.h>
 
 /**
  * main - printf "Programming is like building a multilingual puzzle. * Return: Always 0.
