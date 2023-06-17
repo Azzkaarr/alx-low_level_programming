@@ -20,11 +20,11 @@ printf("Last digit of %d is %d and is greater than 5\n", n, lastnum);
 }
 else if (lastnum == 0)
 {
-printf("Last digit of %d is %d and is greater than 0\n", n, lastnum);
+printf("Last digit of %d is 0\n", n, lastnum);
 }
 else if (lastnum < 6 && lastnum != 1)
 {
-printf("Last digit of %d is %d and is greater than 6 and pot 0\n", n, lastnum);
+printf("Last digit of %d is %d and is less  than 6 and pot 0\n", n, lastnum);
 }
 return (0);
 }
