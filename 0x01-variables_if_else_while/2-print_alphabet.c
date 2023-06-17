@@ -7,7 +7,7 @@
  */
 int  main(void)
 {
-int lowerCASe ='a';
+int lowerCASe = 'a';
 while (lowerCASe <= 'z')
 {
 putchar(lowerCASe);
